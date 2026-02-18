@@ -76,3 +76,17 @@ Ce dashboard apporte une réponse visuelle et stratégique à ces questions.
 ⸻
 
 📁 Structure du repository
+Employee-Performance-Analytics/
+│
+├── data/
+│   └── Employes_SQL_Tableau.xlsx
+│
+├── dashboard/
+│   └── HR_Analytics_Dashboard.twbx
+│
+├── images/
+│   └── dashboard_preview.png
+│
+└── README.md
+Auteur : Arsene
+Année: 2026
