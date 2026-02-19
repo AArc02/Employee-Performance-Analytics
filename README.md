@@ -1,7 +1,5 @@
 # Tableau de Bord Employee-Performance-Analytics
 
-Aperçu du Dashboard <img width="1457" height="876" alt="dashbor_HRR_Analytics_employees" src="https://github.com/user-attachments/assets/e364cb1a-8ca5-4a0d-8032-daf5f1ddca0f" />
-
 ## Objectif du projet
 
 Ce projet consiste à concevoir un dashbord  grace à Tableau Public interactif d’analyse des ressources humaines à partir d’un dataset structuré (Excel / SQL).
