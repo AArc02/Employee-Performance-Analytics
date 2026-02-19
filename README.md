@@ -1,4 +1,7 @@
 # Tableau de Bord Employee-Performance-Analytics
+
+Voir le dashboard interactif sur Tableau Public :(https://public.tableau.com/app/profile/arsene.allahndiguim/viz/DASHBORDDATA/Tableaudebord1?publish=yes)
+
 Mon dashbord
 ![Aperçu du Dashboard](images/dashboard_preview.png)
 
