@@ -73,20 +73,14 @@ Ce dashboard apporte une réponse visuelle et stratégique à ces questions.
 
 👉 Voir le dashboard interactif sur Tableau Public￼(https://public.tableau.com/app/profile/arsene.allahndiguim/viz/DASHBORDDATA/Tableaudebord1?publish=yes)
 
-⸻
+---
 
-📁 Structure du repository
-Employee-Performance-Analytics/
-│
-├── data/
-│   └── Employes_SQL_Tableau.xlsx
-│
-├── dashboard/
-│   └── HR_Analytics_Dashboard.twbx
-│
-├── images/
-│   └── dashboard_preview.png
-│
-└── README.md
+##  Contenu du projet
+- `HR analystics employees.twbx` :Fichier tableau.
+- `Employes_SQL_Tableau.xlsx` : dataset.
+- `README.md` : ce fichier de présentation.
+
+---
+
 Auteur : Arsene
 Année: 2026
