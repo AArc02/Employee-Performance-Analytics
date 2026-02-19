@@ -1,4 +1,6 @@
 # Tableau de Bord Employee-Performance-Analytics
+Mon dashbord
+![Aperçu du Dashboard](images/dashboard_preview.png)
 
 ## Objectif du projet
 
